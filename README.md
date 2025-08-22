@@ -1,3 +1,9 @@
+```
+@import url("https://cdn.jsdelivr.net/gh/Sparz001/MedusaFin@main/Medusa.css");
+```
+
+PREV README INFO
+
 # Medusa - A modern CSS theme for Jellyfin
 <img float="left" src=".github/images/Logo.png" alt="" width="80"/>
 
