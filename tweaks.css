@@ -289,6 +289,7 @@ background: rgba(0, 0, 0, 0);
 }
 
 /* Don't push down 'Home' and 'Favourites' tabs on smaller screens*/
+/*
 @media (max-width: 100em) {
     .sectionTabs {
 		-webkit-align-items: center;
@@ -302,6 +303,7 @@ background: rgba(0, 0, 0, 0);
         width: auto;
     }
 }
+*/
 
 /* Add margins to 'Play all' and three dots buttons */
 
